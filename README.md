@@ -1,7 +1,10 @@
 # TikTok Performance Analysis from Indonesian News Media
+## Business Understanding
 TikTok is a key platform for news, with Indonesian media competing in a fast-paced content environment. Understanding content, timing, and posting behavior is essential to optimize reach and engagement. This project aims to analyze TikTok data to generate insights, build a simple dashboard for data visualization, and provide data-driven recommendations to improve content strategy.
 
-**Disclaimer**: this analysis is still at a **basic level** and may contain errors or inaccuracies. So, further validation are recommended.
+## Objectives
+- Analyzed TikTok performance data from seven Indonesian news media accounts using Python to identify trends in impressions, engagement, content performance, and posting behavior.
+- Built an interactive dashboard in Google Data Studio and created a presentation deck in Canva to communicate insights.
 
 ## Dataset
 **TikTok Performance Data**
@@ -192,4 +195,11 @@ Among engagement metrics, Total Saves (0.93) and Total Likes (0.89) were the str
 
 The cleaned dataset will be exported as a CSV file. The file will be used to build dashboard in Google Data Studio, then the rest of EDA will be conducted using this dashboard.
 
+## Key Findings
+- Engagement drove views more than posting frequency.
+- High reach did not always lead to high engagement.
+- Weekend posts (3:00–5:00 AM) performed best.
+- International and momentum-driven content generated the highest performance.
+
+## Dashboard
 Link to the dashboard is [here](https://datastudio.google.com/u/0/reporting/3973755b-b19c-40c5-aaa8-f70674b2800b).
