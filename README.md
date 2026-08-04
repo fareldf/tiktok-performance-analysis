@@ -1,4 +1,4 @@
-# TikTok Performance Analysis from Indonesian News Media
+# TikTok Performance Analysis
 ## Business Understanding
 TikTok is a key platform for news, with Indonesian media competing in a fast-paced content environment. Understanding content, timing, and posting behavior is essential to optimize reach and engagement. This project aims to analyze TikTok data to generate insights, build a simple dashboard for data visualization, and provide data-driven recommendations to improve content strategy.
 
